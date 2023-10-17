@@ -65,6 +65,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Use object based system for origin attribute adjustments.
 - [x] Subsurface on materials like snail body.
 - [ ] Flatten mountain tops so terrain looks more realistic.
+- [ ] Make health and death non-deterministic.
 
 ### Fix
 
