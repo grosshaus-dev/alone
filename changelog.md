@@ -1,4 +1,4 @@
-# Pond Changelog
+# Alone Changelog
 
 All notable changes to the **Alone** project will be documented in this file.
 

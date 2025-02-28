@@ -59,6 +59,20 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Create non-interactive grass.
 - [ ] Replace bindings with event dispatchers for UI.
 - [ ] Use built in event anydamage for applying damage and healing (just a - damage).
+- [ ] Head bobbing. (rafael)
+- [ ] Basic sounds. (rafael)
+  - [ ] Footstep sounds depending on floor type.
+  - [ ] Breathing sounds when out of stamina.
+  - [ ] Environmental sounds.
+- [ ] Footprints in sand.
+- [ ] Detect if in sun or not. (rafael)
+- [ ] Ocean water.
+  - [ ] Tides.
+- [ ] Show stats on character creation.
+- [ ] Ability to toggle numbers for stats while in game.
+- [ ] Update 3D models.
+- [ ] Three hearts 'lives' system.
+
 
 ### Change
 
