@@ -59,7 +59,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Create non-interactive grass.
 - [ ] Replace bindings with event dispatchers for UI.
 - [ ] Use built in event anydamage for applying damage and healing (just a - damage).
-- [ ] Head bobbing. (rafael)
+- [x] Head bobbing. (rafael)
 - [ ] Basic sounds. (rafael)
   - [ ] Footstep sounds depending on floor type.
   - [ ] Breathing sounds when out of stamina.
