@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Primary and alternative interaction with `e` and `q`.
 - Reeds that can be harvested and uprooted.
 - Can eat mussels, snails, and eggs.
+- Headbobbing.
 
 ### Changed
 
