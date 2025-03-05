@@ -62,7 +62,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Head bobbing. (rafael)
 - [ ] Basic sounds. (rafael)
   - [ ] Footstep sounds depending on floor type.
-  - [ ] Breathing sounds when out of stamina.
+  - [x] Breathing sounds when out of stamina.
   - [ ] Environmental sounds.
 - [ ] Footprints in sand.
 - [ ] Detect if in sun or not. (rafael)

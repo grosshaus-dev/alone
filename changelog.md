@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reeds that can be harvested and uprooted.
 - Can eat mussels, snails, and eggs.
 - Headbobbing.
+- Breathing sounds when out of stamina.
 
 ### Changed
 
