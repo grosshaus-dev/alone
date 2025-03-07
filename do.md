@@ -65,7 +65,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [x] Breathing sounds when out of stamina.
   - [ ] Environmental sounds.
 - [ ] Footprints in sand.
-- [ ] Detect if in sun or not. (rafael)
+- [x] Detect if in sun or not. (rafael)
 - [ ] Ocean water.
   - [ ] Tides.
 - [ ] Show stats on character creation.

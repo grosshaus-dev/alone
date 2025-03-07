@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Can eat mussels, snails, and eggs.
 - Headbobbing.
 - Breathing sounds when out of stamina.
+- Dehydrate faster when in sun.
 
 ### Changed
 
