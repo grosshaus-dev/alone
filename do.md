@@ -48,30 +48,27 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Add ability to set attribute values in debug menu.
 - [ ] Beach spawner.
   - [x] Basic spawner.
-  - [ ] Way to keep eggs from rolling out of their nest.
+  - [x] Way to keep eggs from rolling out of their nest.
   - [x] Way to prevent multiple objects spawning on top of each other.
   - [x] Chance not to spawn anything.
-  - [ ] Automatic re-spawning on timer.
+  - [ ] Automatic re-spawning when change from high to low tide.
   - [ ] Way to define an area to spawn in, so that I don't have to place every spawner manually.
     - [ ] Can simply create a volume over the beach, spawning then line traces down and spawns if there's nothing in the way.
 - [ ] Create dune grass (interactive), yields grass.
 - [x] Create reeds (interactive), yields reed.
-- [ ] Create non-interactive grass.
+- [x] Create non-interactive grass.
 - [ ] Replace bindings with event dispatchers for UI.
 - [ ] Use built in event anydamage for applying damage and healing (just a - damage).
 - [x] Head bobbing. (rafael)
-- [ ] Basic sounds. (rafael)
-  - [ ] Footstep sounds depending on floor type.
-  - [x] Breathing sounds when out of stamina.
-  - [ ] Environmental sounds.
-- [ ] Footprints in sand.
+- [x] Breathing sounds when out of stamina.
 - [x] Detect if in sun or not. (rafael)
 - [ ] Ocean water.
   - [ ] Tides.
 - [ ] Show stats on character creation.
 - [ ] Ability to toggle numbers for stats while in game.
-- [ ] Update 3D models.
-- [ ] Three hearts 'lives' system.
+- [x] Update 3D models.
+- [ ] Add in-game stats panel.
+- [ ] Add stats overview to character creation screen.
 
 
 ### Change
@@ -93,3 +90,9 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 ### Remove
 
 - [x] Crawling.
+
+### Backlog
+- [ ] Environmental sounds.
+- [ ] Footstep sounds depending on floor type.
+- [ ] Footprints in sand.
+- [ ] Three hearts 'lives' system.
