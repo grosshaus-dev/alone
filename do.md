@@ -64,7 +64,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Detect if in sun or not. (rafael)
 - [ ] Ocean water.
   - [ ] Tides.
-- [ ] Show stats on character creation.
 - [ ] Ability to toggle numbers for stats while in game.
 - [x] Update 3D models.
 - [x] Add in-game stats panel.
