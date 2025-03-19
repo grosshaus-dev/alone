@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Breathing sounds when out of stamina.
 - Dehydrate faster when in sun.
 - in-game stats panel.
+- stats overview to character creation screen.
 
 ### Changed
 
