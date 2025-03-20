@@ -69,7 +69,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Add in-game stats panel.
 - [x] Add stats overview to character creation screen.
 - [x] Add stats animation.
-- [ ] Add fall damage.
+- [x] Add fall damage.
 
 ### Change
 
