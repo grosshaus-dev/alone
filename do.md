@@ -71,7 +71,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Add stats animation.
 - [x] Add fall damage.
 - [ ] Add pain sound.
-- [ ] Add inventory system
+- [x] Add inventory system.
 
 ### Change
 
