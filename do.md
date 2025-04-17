@@ -57,8 +57,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Create dune grass (interactive), yields grass.
 - [x] Create reeds (interactive), yields reed.
 - [x] Create non-interactive grass.
-- [ ] Replace bindings with event dispatchers for UI.
-- [ ] Use built in event anydamage for applying damage and healing (just a - damage).
+- [x] Replace bindings for UI.
 - [x] Head bobbing. (rafael)
 - [x] Breathing sounds when out of stamina.
 - [x] Detect if in sun or not. (rafael)
@@ -72,6 +71,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Add fall damage.
 - [ ] Add pain sound.
 - [x] Add inventory system.
+- [x] Three hearts 'lives' system.
 
 ### Change
 
@@ -97,4 +97,3 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Environmental sounds.
 - [ ] Footstep sounds depending on floor type.
 - [ ] Footprints in sand.
-- [ ] Three hearts 'lives' system.

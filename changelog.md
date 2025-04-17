@@ -33,7 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Stats overview to character creation screen.
 - Stats animation.
 - Fall damage.
-- Add inventory.
+- Basic Inventory.
+- Hearts 'lives' system.
 
 ### Changed
 
