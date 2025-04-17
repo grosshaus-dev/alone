@@ -63,7 +63,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Detect if in sun or not. (rafael)
 - [ ] Ocean water.
   - [ ] Tides.
-- [ ] Ability to toggle numbers for stats while in game.
 - [x] Update 3D models.
 - [x] Add in-game stats panel.
 - [x] Add stats overview to character creation screen.
@@ -72,13 +71,15 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Add pain sound.
 - [x] Add inventory system.
 - [x] Three hearts 'lives' system.
+- [ ] Control to scroll trough inventory with mouse wheel.
+- [ ] Number keys mapped to inventory slots.
 
 ### Change
 
 - [x] Use object based system for origin attribute adjustments.
 - [x] Subsurface on materials like snail body.
 - [ ] Flatten mountain tops so terrain looks more realistic.
-- [ ] Make health and death non-deterministic.
+- [x] Rename classes to fit naming conventions.
 
 ### Fix
 
@@ -88,6 +89,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Death menu doesn't get mouse focus.
 - [x] Movement not working correctly, slowing down after first few steps.
 - [x] Update help panel to accurately reflect features in game.
+- [ ] Save amount of hearts left in save game.
 
 ### Remove
 
