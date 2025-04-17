@@ -80,7 +80,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Subsurface on materials like snail body.
 - [ ] Flatten mountain tops so terrain looks more realistic.
 - [x] Rename files to fit naming conventions.
-- [ ] Can change number of inventory slots.
+- [x] Can change number of inventory slots.
 
 ### Fix
 
@@ -90,7 +90,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Death menu doesn't get mouse focus.
 - [x] Movement not working correctly, slowing down after first few steps.
 - [x] Update help panel to accurately reflect features in game.
-- [ ] Save amount of hearts left in save game.
+- [x] Save amount of hearts left in save game.
 
 ### Remove
 
