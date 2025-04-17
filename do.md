@@ -71,15 +71,15 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Add pain sound.
 - [x] Add inventory system.
 - [x] Three hearts 'lives' system.
-- [ ] Control to scroll trough inventory with mouse wheel.
-- [ ] Number keys mapped to inventory slots.
+- [x] Control to scroll trough inventory with mouse wheel.
+- [x] Number keys mapped to inventory slots.
 
 ### Change
 
 - [x] Use object based system for origin attribute adjustments.
 - [x] Subsurface on materials like snail body.
 - [ ] Flatten mountain tops so terrain looks more realistic.
-- [x] Rename classes to fit naming conventions.
+- [x] Rename files to fit naming conventions.
 
 ### Fix
 
