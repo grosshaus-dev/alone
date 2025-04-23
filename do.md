@@ -73,6 +73,11 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Three hearts 'lives' system.
 - [x] Control to scroll trough inventory with mouse wheel.
 - [x] Number keys mapped to inventory slots.
+- [ ] Chests. (Paul)
+  - [ ] Large stationary chest.
+  - [ ] Medium carryable chest.
+  - [ ] Small chest, that you can pick up.
+
 
 ### Change
 
