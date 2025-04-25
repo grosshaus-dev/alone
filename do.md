@@ -96,6 +96,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Movement not working correctly, slowing down after first few steps.
 - [x] Update help panel to accurately reflect features in game.
 - [x] Save amount of hearts left in save game.
+- [ ] Stamina can have more than Max.
 
 ### Remove
 
