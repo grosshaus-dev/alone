@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fall damage.
 - Basic Inventory.
 - Hearts 'lives' system.
+- Ability for certain items to burn.
 
 ### Changed
 
