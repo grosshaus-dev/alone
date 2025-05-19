@@ -58,9 +58,9 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Create reeds (interactive), yields reed.
 - [x] Create non-interactive grass.
 - [x] Replace bindings for UI.
-- [x] Head bobbing. (rafael)
+- [x] Head bobbing. (Rafael)
 - [x] Breathing sounds when out of stamina.
-- [x] Detect if in sun or not. (rafael)
+- [x] Detect if in sun or not. (Rafael)
 - [ ] Ocean water.
   - [ ] Tides.
 - [x] Update 3D models.
@@ -77,6 +77,9 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [ ] Large stationary chest.
   - [ ] Medium carryable chest.
   - [ ] Small chest, that you can pick up.
+- [ ] Fire system. (Rafael)
+  - [ ] Fire can spread.
+  - [ ] Items to start fire with.
 
 
 ### Change
