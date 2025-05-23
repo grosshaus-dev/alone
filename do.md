@@ -78,7 +78,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [ ] Medium carryable chest.
   - [ ] Small chest, that you can pick up.
 - [ ] Fire system. (Rafael)
-  - [ ] Fire can spread.
+  - [x] Fire can spread.
   - [ ] Items to start fire with.
 
 
