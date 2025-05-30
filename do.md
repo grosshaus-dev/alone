@@ -80,6 +80,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Fire system. (Rafael)
   - [x] Fire can spread.
   - [ ] Items to start fire with.
+- [ ] Add physics.
 
 
 ### Change
