@@ -21,6 +21,7 @@
 - Remove all bars from hud, just use stuff like game becoming more monochrome, etc to show what is going on.
 - Skill system, get better at stuff by doing it, like running and swimming.
 - No inventory carry stuff on you, slots for back, shoulders, hands. Use existing inventory for that. Can put stuff in a bag and equip that to you back slot for example.
+- Grand manan style map with extreme tides, can move between islands when tide is low. Swimming is not so viable because of very cold water.
 
 ## Situations
 
