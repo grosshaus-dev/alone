@@ -89,6 +89,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [ ] Can use blubber to make oil. (Isak)
 - [ ] Swim system from recordings. (Isak)
 - [ ] Spawn point system with unlocking additional spawn points as you discover them.
+- [ ] Notification system, how to notify player of unlocks, etc.
 
 
 ### Change
