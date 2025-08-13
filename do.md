@@ -88,8 +88,9 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Beached wales/dolphins, etc. (Isak)
     - [ ] Can use blubber to make oil. (Isak)
 - [ ] Swim system from recordings. (Isak)
-- [ ] Spawn point system with unlocking additional spawn points as you discover them.
-- [ ] Notification system, how to notify player of unlocks, etc.
+- [ ] Spawn point system with unlocking additional spawn points as you discover them. Can pick spawn region from menu, actualy spawn at one of the regions spawn points.
+- [x] Notification system, how to notify player of unlocks, etc.
+- [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
 
 
 ### Change
