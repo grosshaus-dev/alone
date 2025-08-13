@@ -77,11 +77,17 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [ ] Large stationary chest.
   - [ ] Medium carryable chest.
   - [ ] Small chest, that you can pick up.
-- [ ] Fire system. (Rafael)
+- [x] Fire system. (Rafael)
   - [x] Fire can spread.
-  - [ ] Items to start fire with.
-- [ ] Add physics.
-- [ ] Proper test map.
+  - [x] Items to start fire with.
+- [x] Add physics.
+- [x] Proper test map.
+- [ ] Headbobbing while swimming.
+- [ ] Clean up blueprints, everything needs to be commented.
+- [ ] Breath, loose breath underwater.  (Isak)
+- [ ] Beached wales/dolphins, etc. (Isak)
+    - [ ] Can use blubber to make oil. (Isak)
+- [ ] Swim system from recordings. (Isak)
 
 
 ### Change
