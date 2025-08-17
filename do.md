@@ -61,8 +61,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Head bobbing. (Rafael)
 - [x] Breathing sounds when out of stamina.
 - [x] Detect if in sun or not. (Rafael)
-- [ ] Ocean water.
-  - [ ] Tides.
+- [x] Ocean water.
 - [x] Update 3D models.
 - [x] Add in-game stats panel.
 - [x] Add stats overview to character creation screen.
@@ -102,7 +101,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 
 - [x] Use object based system for origin attribute adjustments.
 - [x] Subsurface on materials like snail body.
-- [ ] Flatten mountain tops so terrain looks more realistic.
 - [x] Rename files to fit naming conventions.
 - [x] Can change number of inventory slots.
 
