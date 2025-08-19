@@ -3,13 +3,11 @@
 ## General
 
 - Unlock new traits when you die a certain way.
-- Unlock new spawn areas when you reach certain areas.
 - Adrenaline.
 - Core temp (temperature in steps, not actual degrees). Cold, chilly, warm, hot. Trace to check if player is in sun/shade, set a bool state, effects temperature.
 - Attribute rate multiplier, effected by temp, etc. E.g., dehydrate faster on a hot day, even faster on a hot day in the sun.
 - Sickness debuff slots.
 - RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
-- Traits that you can pick when you start. Limited slots, can unlock new slots.
 - Non-determinism for death event, if under a certain amount of health you simply have a chance of dying, see implementation in pond.
 - Skills that level up as you use them.
 - A mashup of elements from The Long Dark (choices matter survival), Skyrim (pick flowers or do epic quests open-ended RPG), and Mirrors Edge (fast paced action with free, fluid movement).
