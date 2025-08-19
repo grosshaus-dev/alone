@@ -91,7 +91,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Notification system, how to notify player of unlocks, etc.
 - [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
 - [x] Campaign picker.
-- [ ] Can pick spawn region from menu, actualy spawn at one of the regions spawn points.
+- [x] Can pick spawn region from menu, actualy spawn at one of the regions spawn points.
 - [ ] Global XP.
     - [ ] Gain XP when unlocking a spawn point.
 - [ ] Trait points and trait point unlocks.

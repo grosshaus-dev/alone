@@ -37,6 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Hearts 'lives' system.
 - Ability for certain items to burn.
 - Notification system to show messages to player.
+- Added spawn region selection.
 
 ### Changed
 
