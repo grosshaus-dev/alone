@@ -87,7 +87,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Beached wales/dolphins, etc. (Isak)
     - [ ] Can use blubber to make oil. (Isak)
 - [ ] Swim system from recordings. (Isak)
-- [ ] Spawn point system with unlocking additional spawn points as you discover them.
+- [x] Spawn point system with unlocking additional spawn points as you discover them.
 - [x] Notification system, how to notify player of unlocks, etc.
 - [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
 - [x] Campaign picker.
@@ -96,6 +96,10 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [x] Gain XP when unlocking a spawn point.
     - [x] Gain XP when unlocking a region.
 - [ ] Trait points and trait point unlocks.
+- [ ] Spyglass.
+- [ ] Easter egg that unlocks the "Long Walk to Freedom" perk on Robben Island.
+- [ ] Broken bottle that can be used a magnifying glass.
+- [ ] Broken bottle when unlocking spawn point.
 
 
 ### Change

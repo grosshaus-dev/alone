@@ -20,6 +20,7 @@
 - Skill system, get better at stuff by doing it, like running and swimming.
 - No inventory carry stuff on you, slots for back, shoulders, hands. Use existing inventory for that. Can put stuff in a bag and equip that to you back slot for example.
 - Grand manan style map with extreme tides, can move between islands when tide is low. Swimming is not so viable because of very cold water.
+- Always keep the last three saves (current + two more, further bach). Option to roll back to one of the ones further back if something goes wrong.
 
 ## Situations
 
@@ -28,6 +29,12 @@ Kind of like escape rooms, but generalized. A point of no return starts a situat
 - You go into a ship, when you enter the hatch is locked, you now have to explore the ship to find a way out.
 - You jump into a gorge, there's no climbing back up, you have to explore the gorge to make it out again.
 - Get washed into the ocean by a freak wave or riptide, end up on a drifting wreck or small island. Have to make your way to land before resources run out.
+
+## Hearts
+
+Three lives, like three hearts in classic games. When you die you get a second wind, which trades a heart for a debuff (like broken bone) you can't get that heart back till you deal with the debuff (splint your leg and wait for it to heal). If all your hearts are gone and you die, game over. Harder difficulties give you less hearts.
+
+Being healthy gives you a buff to your overall health pool, and the rate at which you heal that health.
 
 ## Origins
 
