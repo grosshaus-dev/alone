@@ -99,7 +99,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Spyglass.
 - [ ] Easter egg that unlocks the "Long Walk to Freedom" perk on Robben Island.
 - [ ] Broken bottle that can be used a magnifying glass.
-- [ ] Broken bottle when unlocking spawn point.
+- [x] Broken bottle when unlocking spawn point.
 
 
 ### Change
