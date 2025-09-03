@@ -21,6 +21,9 @@
 - No inventory carry stuff on you, slots for back, shoulders, hands. Use existing inventory for that. Can put stuff in a bag and equip that to you back slot for example.
 - Grand manan style map with extreme tides, can move between islands when tide is low. Swimming is not so viable because of very cold water.
 - Always keep the last three saves (current + two more, further bach). Option to roll back to one of the ones further back if something goes wrong.
+- Semi static animals, create a list of animals we can add that don't really move, like the snail.
+- Penguins with nests, can find eggs in nests.
+- Okavango Delta map. With seasonal flooding.
 
 ## Situations
 

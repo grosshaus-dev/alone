@@ -72,7 +72,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Three hearts 'lives' system.
 - [x] Control to scroll trough inventory with mouse wheel.
 - [x] Number keys mapped to inventory slots.
-- [ ] Chests. (Paul)
+- [ ] Chests.
   - [ ] Large stationary chest.
   - [ ] Medium carryable chest.
   - [ ] Small chest, that you can pick up.
@@ -81,12 +81,11 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [x] Items to start fire with.
 - [x] Add physics.
 - [x] Proper test map.
-- [ ] Headbobbing while swimming.
-- [ ] Clean up blueprints, everything needs to be commented.
 - [ ] Breath, loose breath underwater.  (Isak)
 - [ ] Beached wales/dolphins, etc. (Isak)
     - [ ] Can use blubber to make oil. (Isak)
 - [ ] Swim system from recordings. (Isak)
+    - [ ] Headbobbing while swimming.
 - [x] Spawn point system with unlocking additional spawn points as you discover them.
 - [x] Notification system, how to notify player of unlocks, etc.
 - [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
@@ -96,10 +95,13 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [x] Gain XP when unlocking a spawn point.
     - [x] Gain XP when unlocking a region.
 - [ ] Trait points and trait point unlocks.
-- [ ] Spyglass.
+- [x] Spyglass.
 - [ ] Easter egg that unlocks the "Long Walk to Freedom" perk on Robben Island.
-- [ ] Broken bottle that can be used a magnifying glass.
-- [x] Broken bottle when unlocking spawn point.
+- [ ] Broken bottle that can be used to start a fire.
+- [x] Break bottle when unlocking spawn point.
+- [ ] Can carry snail in hand.
+    - [ ] Snail should close when in hand, open when placed again.
+    - [ ] Shell and cap is kept when eaten.
 
 
 ### Change
