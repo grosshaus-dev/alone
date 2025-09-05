@@ -73,7 +73,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Control to scroll trough inventory with mouse wheel.
 - [x] Number keys mapped to inventory slots.
 - [ ] Chests.
-  - [ ] Large stationary chest.
+  - [x] Large stationary chest.
   - [ ] Medium carryable chest.
   - [ ] Small chest, that you can pick up.
 - [x] Fire system. (Rafael)
