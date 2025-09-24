@@ -102,6 +102,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Can carry snail in hand.
     - [ ] Snail should close when in hand, open when placed again.
     - [ ] Shell and cap is kept when eaten.
+- [ ] Hide UI on button press.
 
 
 ### Change
