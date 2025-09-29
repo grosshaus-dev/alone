@@ -74,8 +74,12 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Number keys mapped to inventory slots.
 - [ ] Chests.
   - [x] Large stationary chest.
-  - [ ] Medium carryable chest.
+  - [x] Medium carryable chest.
   - [ ] Small chest, that you can pick up.
+- [ ] Lock system for chests.
+- [ ] Equitable containers (only shoulder slots?).
+  - [ ] Back bag.
+  - [ ] Shoulder bag.
 - [x] Fire system. (Rafael)
   - [x] Fire can spread.
   - [x] Items to start fire with.
@@ -103,6 +107,9 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [ ] Snail should close when in hand, open when placed again.
     - [ ] Shell and cap is kept when eaten.
 - [ ] Hide UI on button press.
+- [ ] Rough version of island with foliage, and rocks.
+- [ ] Sand/dirt close to water is wet.
+- [ ] Foam around objects in water and on shore.
 
 
 ### Change
