@@ -114,29 +114,29 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 
 ### Change
 
-[x] Use object based system for origin attribute adjustments.
-[x] Subsurface on materials like snail body.
-[x] Rename files to fit naming conventions.
-[x] Can change number of inventory slots.
+- [x] Use object based system for origin attribute adjustments.
+- [x] Subsurface on materials like snail body.
+- [x] Rename files to fit naming conventions.
+- [x] Can change number of inventory slots.
 
 ### Fix
 
-[x] Stamina is used when spamming spacebar.
-[x] Last trait picked not being applied.
-[x] Dawn/dusk is too long (may be adjustable in blueprint default settings?).
-[x] Death menu doesn't get mouse focus.
-[x] Movement not working correctly, slowing down after first few steps.
-[x] Update help panel to accurately reflect features in game.
-[x] Save amount of hearts left in save game.
-[ ] Stamina can have more than Max.
-[ ] Magnifier spawn at ground of Chest.
+- [x] Stamina is used when spamming spacebar.
+- [x] Last trait picked not being applied.
+- [x] Dawn/dusk is too long (may be adjustable in blueprint default settings?).
+- [x] Death menu doesn't get mouse focus.
+- [x] Movement not working correctly, slowing down after first few steps.
+- [x] Update help panel to accurately reflect features in game.
+- [x] Save amount of hearts left in save game.
+- [ ] Stamina can have more than Max.
+- [ ] Magnifier spawn at ground of Chest.
 
 ### Remove
 
-[x] Crawling.
+- [x] Crawling.
 
 ### Backlog
 
-[ ] Environmental sounds.
-[ ] Footstep sounds depending on floor type.
-[ ] Footprints in sand.
+- [ ] Environmental sounds.
+- [ ] Footstep sounds depending on floor type.
+- [ ] Footprints in sand.
