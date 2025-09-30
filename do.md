@@ -96,13 +96,12 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [x] Gain XP when unlocking a region.
 - [ ] Trait points and trait point unlocks.
 - [x] Spyglass.
-- [ ] Easter egg that unlocks the "Long Walk to Freedom" perk on Robben Island.
 - [ ] Broken bottle that can be used to start a fire.
 - [x] Break bottle when unlocking spawn point.
 - [ ] Can carry snail in hand.
     - [ ] Snail should close when in hand, open when placed again.
     - [ ] Shell and cap is kept when eaten.
-- [ ] Hide UI on button press.
+- [x] Hide UI on button press.
 
 
 ### Change

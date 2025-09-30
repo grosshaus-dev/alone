@@ -40,6 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Spawn region selection.
 - XP.
 - Player name.
+- Ability to toggle UI with `u`.
 
 
 ### Changed
