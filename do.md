@@ -105,6 +105,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Foam around objects in water and shore.
 - [ ] Wet texture on objects and terrein close to water.
 - [ ] Tides.
+- [ ] Test Height map, Normal map and Roughness map on terrain materials.
 
 
 ### Change
