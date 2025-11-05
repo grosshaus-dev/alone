@@ -104,6 +104,8 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Hide UI on button press.
 - [ ] Foam around objects in water and shore.
 - [ ] Wet texture on objects and terrein close to water.
+- [ ] Tides.
+- [ ] Test Height map, Normal map and Roughness map on terrain materials.
 
 
 ### Change
@@ -112,6 +114,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Subsurface on materials like snail body.
 - [x] Rename files to fit naming conventions.
 - [x] Can change number of inventory slots.
+- [ ] Revert to simple, plane based water.
 
 ### Fix
 
