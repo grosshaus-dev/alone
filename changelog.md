@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - XP.
 - Player name.
 - Ability to toggle UI with `u`.
+- Tide system based on lunar cycle.
 
 
 ### Changed
