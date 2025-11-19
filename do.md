@@ -115,7 +115,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Rename files to fit naming conventions.
 - [x] Can change number of inventory slots.
 - [x] Revert to simple, plane based water.
-- [ ] Restore Good Hope as starter map.
+- [x] Restore Good Hope as starter map.
 
 ### Fix
 
