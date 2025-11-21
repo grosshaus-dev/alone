@@ -104,6 +104,11 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [ ] Shell and cap is kept when eaten.
 - [x] Hide UI on button press.
 - [x] Tides.
+- [ ] Puddles that appear after rain, dissapear again after a while.
+- [ ] Wetness for player, get wet when standing in rain.
+- [ ] Wetness for fire, rain can extinguish fires.
+- [ ] Weather.
+- [ ] Climate.
 
 
 ### Change
