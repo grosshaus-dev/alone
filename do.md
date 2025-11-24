@@ -108,6 +108,8 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Wetness for player, get wet when standing in rain.
 - [ ] Wetness for fire, rain can extinguish fires.
 - [ ] Weather.
+    - [ ] Temperature that adjusts with elevation.
+    - [ ] Show weather on HUD or info panel.
 - [ ] Climate.
 
 
@@ -133,6 +135,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Magnifier spawns at ground of Chest.
 - [ ] Chest rotates while being carried.
 - [ ] Landscape material kills transparency.
+- [ ] Check if in shade not working with dynamic sky system. (Rafael)
 
 ### Remove
 
