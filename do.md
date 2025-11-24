@@ -99,9 +99,9 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Spyglass.
 - [ ] Broken bottle that can be used to start a fire.
 - [x] Break bottle when unlocking spawn point.
-- [ ] Can carry snail in hand.
-    - [ ] Snail should close when in hand, open when placed again.
-    - [ ] Shell and cap is kept when eaten.
+- [x] Can carry snail in hand.
+    - [x] Snail should close when in hand, open when placed again.
+    - [x] Shell and cap is kept when eaten.
 - [x] Hide UI on button press.
 - [x] Tides.
 - [ ] Puddles that appear after rain, dissapear again after a while.
@@ -132,6 +132,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Stamina can have more than Max.
 - [x] Magnifier spawns at ground of Chest.
 - [ ] Chest rotates while being carried.
+- [ ] Landscape material kills transparency.
 
 ### Remove
 
