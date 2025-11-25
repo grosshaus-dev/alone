@@ -87,6 +87,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [ ] Headbobbing while swimming.
     - [ ] Breath, loose breath underwater.
     - [ ] Post-process volume when under water.
+    - [ ] Water temperature.
 - [x] Spawn point system with unlocking additional spawn points as you discover them.
 - [x] Notification system, how to notify player of unlocks, etc.
 - [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
@@ -109,7 +110,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Wetness for fire, rain can extinguish fires.
 - [ ] Weather.
     - [x] Feels like temperature that adjusts with elevation and when in sun.
-- [ ] Climate.
+- [x] Climate.
 
 
 ### Change
