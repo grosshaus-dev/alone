@@ -86,7 +86,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Swim system from recordings. (Isak)
     - [ ] Headbobbing while swimming.
     - [ ] Breath, loose breath underwater.
-    - [ ] Post-process volume when under water.
+    - [x] Post-process volume when under water.
     - [ ] Water temperature.
 - [x] Spawn point system with unlocking additional spawn points as you discover them.
 - [x] Notification system, how to notify player of unlocks, etc.
