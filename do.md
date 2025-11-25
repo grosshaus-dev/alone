@@ -109,7 +109,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Wetness for fire, rain can extinguish fires.
 - [ ] Weather.
     - [ ] Temperature that adjusts with elevation.
-    - [ ] Show weather on HUD or info panel.
 - [ ] Climate.
 
 
