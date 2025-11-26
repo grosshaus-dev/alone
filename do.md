@@ -46,15 +46,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [x] Interface for all interactive objects.
 - [x] Rename info panel to debug panel.
 - [x] Add ability to set attribute values in debug menu.
-- [ ] Beach spawner.
-  - [x] Basic spawner.
-  - [x] Way to keep eggs from rolling out of their nest.
-  - [x] Way to prevent multiple objects spawning on top of each other.
-  - [x] Chance not to spawn anything.
-  - [ ] Automatic re-spawning when change from high to low tide.
-  - [ ] Way to define an area to spawn in, so that I don't have to place every spawner manually.
-    - [ ] Can simply create a volume over the beach, spawning then line traces down and spawns if there's nothing in the way.
-- [ ] Create dune grass (interactive), yields grass.
 - [x] Create reeds (interactive), yields reed.
 - [x] Create non-interactive grass.
 - [x] Replace bindings for UI.
@@ -67,7 +58,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [x] Add stats overview to character creation screen.
 - [x] Add stats animation.
 - [x] Add fall damage.
-- [ ] Add pain sound.
 - [x] Add inventory system.
 - [x] Three hearts 'lives' system.
 - [x] Control to scroll trough inventory with mouse wheel.
@@ -81,6 +71,38 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
   - [x] Items to start fire with.
 - [x] Add physics.
 - [x] Proper test map.
+- [x] Spawn point system with unlocking additional spawn points as you discover them.
+- [x] Notification system, how to notify player of unlocks, etc.
+- [x] Campaign picker.
+- [x] Can pick spawn region from menu, actualy spawn at one of the regions spawn points.
+- [x] Global XP.
+    - [x] Gain XP when unlocking a spawn point.
+    - [x] Gain XP when unlocking a region.
+- [x] Spyglass.
+- [x] Break bottle when unlocking spawn point.
+- [x] Can carry snail in hand.
+    - [x] Snail should close when in hand, open when placed again.
+    - [x] Shell and cap is kept when eaten.
+- [x] Hide UI on button press.
+- [x] Tides.
+- [x] Climate.
+- [ ] Beach spawner.
+  - [x] Basic spawner.
+  - [x] Way to keep eggs from rolling out of their nest.
+  - [x] Way to prevent multiple objects spawning on top of each other.
+  - [x] Chance not to spawn anything.
+  - [ ] Automatic re-spawning when change from high to low tide.
+  - [ ] Way to define an area to spawn in, so that I don't have to place every spawner manually.
+    - [ ] Can simply create a volume over the beach, spawning then line traces down and spawns if there's nothing in the way.
+- [ ] Create dune grass (interactive), yields grass.
+- [ ] Puddles that appear after rain, dissapear again after a while.
+- [ ] Wetness for player, get wet when standing in rain.
+- [ ] Wetness for fire, rain can extinguish fires.
+- [ ] Weather.
+    - [x] Feels like temperature that adjusts with elevation and when in sun.
+- [ ] Broken bottle that can be used to start a fire.
+- [ ] Trait points and trait point unlocks.
+- [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
 - [ ] Beached wales/dolphins, etc. (Isak)
     - [ ] Can use blubber to make oil. (Isak)
 - [ ] Swim system from recordings. (Isak)
@@ -88,29 +110,6 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [ ] Breath, loose breath underwater.
     - [x] Post-process volume when under water.
     - [ ] Water temperature.
-- [x] Spawn point system with unlocking additional spawn points as you discover them.
-- [x] Notification system, how to notify player of unlocks, etc.
-- [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
-- [x] Campaign picker.
-- [x] Can pick spawn region from menu, actualy spawn at one of the regions spawn points.
-- [x] Global XP.
-    - [x] Gain XP when unlocking a spawn point.
-    - [x] Gain XP when unlocking a region.
-- [ ] Trait points and trait point unlocks.
-- [x] Spyglass.
-- [ ] Broken bottle that can be used to start a fire.
-- [x] Break bottle when unlocking spawn point.
-- [x] Can carry snail in hand.
-    - [x] Snail should close when in hand, open when placed again.
-    - [x] Shell and cap is kept when eaten.
-- [x] Hide UI on button press.
-- [x] Tides.
-- [ ] Puddles that appear after rain, dissapear again after a while.
-- [ ] Wetness for player, get wet when standing in rain.
-- [ ] Wetness for fire, rain can extinguish fires.
-- [ ] Weather.
-    - [x] Feels like temperature that adjusts with elevation and when in sun.
-- [x] Climate.
 
 
 ### Change
@@ -146,3 +145,4 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Environmental sounds.
 - [ ] Footstep sounds depending on floor type.
 - [ ] Footprints in sand.
+- [ ] Add pain sound.
