@@ -100,6 +100,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Wetness for fire, rain can extinguish fires.
 - [ ] Weather.
     - [x] Feels like temperature that adjusts with elevation and when in sun.
+    - [ ] Rain.
 - [ ] Broken bottle that can be used to start a fire.
 - [ ] Trait points and trait point unlocks.
 - [ ] RPG style stat points that you can assign when you start. Instead of origins. Effect your stats. Unlock more points the more you level up.
@@ -110,6 +111,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
     - [ ] Breath, loose breath underwater.
     - [x] Post-process volume when under water.
     - [ ] Water temperature.
+- [ ] Core temperature with negative effects when too high or low.
 
 
 ### Change
@@ -135,6 +137,7 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Chest rotates while being carried.
 - [ ] Landscape material kills transparency.
 - [ ] Stars appear sharper towards center of sky sphere.
+- [ ] Skybox not visible from under water.
 
 ### Remove
 
