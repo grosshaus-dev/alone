@@ -24,6 +24,7 @@
 - Semi static animals, create a list of animals we can add that don't really move, like the snail.
 - Penguins with nests, can find eggs in nests.
 - Okavango Delta map. With seasonal flooding.
+- Congo plane crash map, start in snowy mountains, make your way down to the jungle.
 
 ## Situations
 
