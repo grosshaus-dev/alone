@@ -107,11 +107,12 @@ Version 0.0.1 focuses on creating a minimum viable prototype. This means having 
 - [ ] Beached wales/dolphins, etc. (Isak)
     - [ ] Can use blubber to make oil. (Isak)
 - [ ] Swim system from recordings. (Isak)
-    - [ ] Headbobbing while swimming.
-    - [ ] Breath, loose breath underwater.
+    - [x] Headbobbing while swimming.
+    - [x] Breath, loose breath underwater.
     - [x] Post-process volume when under water.
-    - [ ] Water temperature.
-- [ ] Core temperature with negative effects when too high or low.
+    - [x] Water temperature.
+    - [ ] Lose stamina while swimming, drown if out of stamina and in water.
+- [x] Core temperature with negative effects when too high or low.
 
 
 ### Change
