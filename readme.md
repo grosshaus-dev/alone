@@ -4,6 +4,10 @@
 
 Inspired by the many shipwrecks along the coast of Southern Africa.
 
+## Current State
+
+Alone is currently under active development. We are still in the prototyping phase so the code base is all in blueprints and not very orderly. We do not recommend using it as a reference in its currents state.
+
 ## Licensing
 
 Our code (Blueprints and C++) is licensed under the MIT license.
