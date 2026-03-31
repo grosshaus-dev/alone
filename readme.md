@@ -1,6 +1,6 @@
 # Alone
 
-*A lonely survival simulator.*
+*A lonely survival RPG.*
 
 Inspired by the many shipwrecks along the coast of Southern Africa.
 
