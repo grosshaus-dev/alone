@@ -1,0 +1,18 @@
+[
+	{
+		"file": "/home/rafael/Projects/Unreal_Projects/alone/Source/Alone/Alone.cpp",
+		"arguments": [
+			"/opt/unreal-engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rafael/Projects/Unreal_Projects/alone/.vscode/compileCommands_Alone/Alone.0.rsp"
+		],
+		"directory": "/opt/unreal-engine/Engine/Source"
+	},
+	{
+		"file": "/home/rafael/Projects/Unreal_Projects/alone/Source/Alone/MyBlueprintFunctionLibrary.cpp",
+		"arguments": [
+			"/opt/unreal-engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rafael/Projects/Unreal_Projects/alone/.vscode/compileCommands_Alone/Alone.0.rsp"
+		],
+		"directory": "/opt/unreal-engine/Engine/Source"
+	}
+]
