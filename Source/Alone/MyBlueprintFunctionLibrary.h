@@ -20,4 +20,8 @@ public:
         float MaxDamage = 100.0f,
         AActor* DamageCauser = nullptr
     );
+
+    UFUNCTION(BlueprintCallable, Category = "Bitmanipulation")
+    static bool IsSet(int32 number, int32 x);
 };
+

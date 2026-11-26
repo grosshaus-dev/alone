@@ -54,3 +54,10 @@ float UMyBlueprintFunctionLibrary::ApplyFallDamage(
     return Damage;
 }
 
+bool UMyBlueprintFunctionLibrary::IsSet(int32 number, int32 x)
+{
+    if (x < 0 || x >= 32)
+        return false;
+
+    return (number & (1u << x)) != 0;
+}
